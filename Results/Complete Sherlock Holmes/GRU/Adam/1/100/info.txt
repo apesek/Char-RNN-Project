@@ -1,0 +1,15 @@
+Iterations: 20000
+
+Dataset: Complete Sherlock Holmes
+Input Size: 128
+Learning Rate: 0.005
+
+Cell Type: GRU
+Optimizer: Adam
+Hidden Layers: 1
+Hidden Size: 100
+
+Avg all losses: 1.5305591821670532,
+Avg last half: 1.4482988119125366
+Avg last quarter: 1.4369207620620728
+Training time: 1637.0130774974823 s (27.283551291624704 m | 0.4547258548604117 h)

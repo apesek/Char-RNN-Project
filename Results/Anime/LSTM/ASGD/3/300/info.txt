@@ -1,0 +1,15 @@
+Iterations: 200
+
+Dataset: Anime
+Input Size: 128
+Learning Rate: 0.05
+
+Cell Type: LSTM
+Optimizer: ASGD
+Hidden Layers: 3
+Hidden Size: 300
+
+Avg all losses: 3.7838613986968994,
+Avg last half: 3.5805468559265137
+Avg last quarter: 3.577573776245117
+Training time: 53.08287215232849 s (0.8847145358721415 m | 0.014745242264535692 h)
